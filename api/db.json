@@ -1,0 +1,42 @@
+{
+  "streams": [
+    {
+      "title": "New Stream",
+      "description": "this is a great stream",
+      "id": 1
+    },
+    {
+      "title": "Second stream",
+      "description": "toma toma toma",
+      "id": 4
+    },
+    {
+      "title": "Hola",
+      "description": "bye bye",
+      "id": 5
+    },
+    {
+      "title": "Cool stream",
+      "description": "mga cool and nice stream",
+      "id": 6
+    },
+    {
+      "title": "Stream Stream",
+      "description": "This stream is created by me",
+      "userId": "113793951161212538802",
+      "id": 7
+    },
+    {
+      "title": "Unexpected behaviour",
+      "description": "did'n expect that behaviour at all",
+      "userId": "113793951161212538802",
+      "id": 8
+    },
+    {
+      "title": "Newer Stream",
+      "description": "programatic navigation test",
+      "userId": "113793951161212538802",
+      "id": 9
+    }
+  ]
+}
